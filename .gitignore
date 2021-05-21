@@ -1,0 +1,13 @@
+*.json
+*.csv
+*.exe
+*.pyc
+*.toc
+*.zip
+*.exe.manifest
+*.pkg
+*.pyz
+*.txt
+*.html
+*.spec
+copull.py
